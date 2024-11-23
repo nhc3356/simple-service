@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: simple-web
-          image: heechan3356/simple-web:2
+          image: heechan3356/simple-web:3
           ports:
             - containerPort:  80
               name: simple-web
